@@ -45,7 +45,7 @@ OneWire
 DallasTemperature https://github.com/milesburton/Arduino-Temperature-Control-Library
 
 Also STRONGLY RECOMENDED change bootloader to Optiboot, because my code use watchdog.
-If you don't use Optiboot bootloader, chinise arduino clone going to bootloop after upload my sketch.
+If you don't use Optiboot bootloader, chinise arduino clone going to bootloop after download my sketch.
 
 link to Download PCB (EagleCad) https://yadi.sk/d/ZKNW_MJOvD854w
 
