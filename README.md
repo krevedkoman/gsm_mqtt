@@ -3,7 +3,7 @@ GSM MQTT AUTOSTART ARDUINO
 
 BOM:
 
-Arduino Pro Mini
+Arduino Pro Mini (atmega328)
 
 DC-DC 2-5А
 
