@@ -2,13 +2,21 @@
 GSM MQTT AUTOSTART ARDUINO
 
 BOM:
+
 Arduino Pro Mini
+
 DC-DC 2-5А
+
 SIM800L
+
 5 pcs. relays SRD-12VDC-SL-C
+
 1 pcs. ULN2003A (DIP)
+
 6 pcs. diodies (1N4001 or other standart diode)
+
 2 pcs. electorlitic capacitors 470 uF
+
 2 pcs. ceramic capacitors 100 nF
 2 pcs. resistors 4.7 кОм
 2 pcs. resistors 10 кОм
