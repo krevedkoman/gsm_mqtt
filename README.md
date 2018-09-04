@@ -34,15 +34,15 @@ About arduino, don't worry about voltage, because we use RAW input.
 
 Used Libs:
 
-TinyGsmClient
+TinyGsmClient https://github.com/vshymanskyy/TinyGSM
 
-PubSubClient
+PubSubClient https://github.com/knolleary/pubsubclient
 
-SoftwareSerial
+SoftwareSerial (standart library)
 
 OneWire
 
-DallasTemperature
+DallasTemperature https://github.com/milesburton/Arduino-Temperature-Control-Library
 
 Also STRONGLY RECOMENDED change bootloader to Optiboot, because my code use watchdog.
 If you don't use Optiboot bootloader, chinise arduino clone going to bootloop after upload my sketch.
