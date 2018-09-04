@@ -48,3 +48,5 @@ Also STRONGLY RECOMENDED change bootloader to Optiboot, because my code use watc
 If you don't use Optiboot bootloader, chinise arduino clone going to bootloop after upload my sketch.
 
 link to Download PCB (EagleCad) https://yadi.sk/d/ZKNW_MJOvD854w
+
+Project on Drive2 https://www.drive2.ru/l/511062076634956154/
