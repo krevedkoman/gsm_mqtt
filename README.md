@@ -18,10 +18,15 @@ SIM800L
 2 pcs. electorlitic capacitors 470 uF
 
 2 pcs. ceramic capacitors 100 nF
+
 2 pcs. resistors 4.7 кОм
+
 2 pcs. resistors 10 кОм
+
 1 pcs. temperature sensor DS18B20
+
 2 pcs. resistors 47кОм (Analog pin А1)
+
 2 pcs. resostors 47кОм if you tacho impulse 12V, else you need find resistors value (digital pin 2)
 
 Scheme works 4.15-4.18V (you need configure you DC-DC convertor) this is maxumim stability voltage for SIM800L.
@@ -30,9 +35,13 @@ About arduino, don't worry about voltage, because we use RAW input.
 Used Libs:
 
 TinyGsmClient
+
 PubSubClient
+
 SoftwareSerial
+
 OneWire
+
 DallasTemperature
 
 Also STRONGLY RECOMENDED change bootloader to Optiboot, because my code use watchdog.
