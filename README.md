@@ -47,6 +47,6 @@ DallasTemperature https://github.com/milesburton/Arduino-Temperature-Control-Lib
 Also STRONGLY RECOMENDED change bootloader to Optiboot, because my code use watchdog.
 If you don't use Optiboot bootloader, chinise arduino clone going to bootloop after download my sketch.
 
-link to Download PCB (EagleCad) https://yadi.sk/d/ZKNW_MJOvD854w
+link to Download PCB (EagleCad) https://disk.yandex.com/d/xGWJcqIqwHJfBQ
 
 Project on Drive2 https://www.drive2.ru/l/511062076634956154/
